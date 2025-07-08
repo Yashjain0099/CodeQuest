@@ -1,0 +1,903 @@
+[
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is the goal of Artificial Intelligence?\nA. Data Storage\nB. Web Design\nC. Simulate human intelligence\nD. Speed up processors\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is 'gradient descent' used for in ML?\nA. Data cleaning\nB. Feature scaling\nC. Optimization\nD. Visualization\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is 'gradient descent' used for in ML?\nA. Data cleaning\nB. Feature scaling\nC. Optimization\nD. Visualization\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is transfer learning?\nA. Learning multiple models\nB. Reusing pre-trained models\nC. Online learning\nD. None of the above\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which technique helps in reducing overfitting in models?\nA. Dropout\nB. Pooling\nC. Gradient Descent\nD. Batch Normalization\nAnswer: A"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which concept allows machines to learn from data?\nA. Coding\nB. AI\nC. Machine Learning\nD. Big Data\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which of the following is used to evaluate classification models?\nA. Precision\nB. Recall\nC. F1-Score\nD. All of the above\nAnswer: D"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which concept allows machines to learn from data?\nA. Coding\nB. AI\nC. Machine Learning\nD. Big Data\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which concept allows machines to learn from data?\nA. Coding\nB. AI\nC. Machine Learning\nD. Big Data\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is transfer learning?\nA. Learning multiple models\nB. Reusing pre-trained models\nC. Online learning\nD. None of the above\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which technique helps in reducing overfitting in models?\nA. Dropout\nB. Pooling\nC. Gradient Descent\nD. Batch Normalization\nAnswer: A"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is transfer learning?\nA. Learning multiple models\nB. Reusing pre-trained models\nC. Online learning\nD. None of the above\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which technique helps in reducing overfitting in models?\nA. Dropout\nB. Pooling\nC. Gradient Descent\nD. Batch Normalization\nAnswer: A"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is 'gradient descent' used for in ML?\nA. Data cleaning\nB. Feature scaling\nC. Optimization\nD. Visualization\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is transfer learning?\nA. Learning multiple models\nB. Reusing pre-trained models\nC. Online learning\nD. None of the above\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is transfer learning?\nA. Learning multiple models\nB. Reusing pre-trained models\nC. Online learning\nD. None of the above\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is 'gradient descent' used for in ML?\nA. Data cleaning\nB. Feature scaling\nC. Optimization\nD. Visualization\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which concept allows machines to learn from data?\nA. Coding\nB. AI\nC. Machine Learning\nD. Big Data\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which concept allows machines to learn from data?\nA. Coding\nB. AI\nC. Machine Learning\nD. Big Data\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which concept allows machines to learn from data?\nA. Coding\nB. AI\nC. Machine Learning\nD. Big Data\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which concept allows machines to learn from data?\nA. Coding\nB. AI\nC. Machine Learning\nD. Big Data\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is 'gradient descent' used for in ML?\nA. Data cleaning\nB. Feature scaling\nC. Optimization\nD. Visualization\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which of the following is used to evaluate classification models?\nA. Precision\nB. Recall\nC. F1-Score\nD. All of the above\nAnswer: D"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which of the following is used to evaluate classification models?\nA. Precision\nB. Recall\nC. F1-Score\nD. All of the above\nAnswer: D"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which of the following is used to evaluate classification models?\nA. Precision\nB. Recall\nC. F1-Score\nD. All of the above\nAnswer: D"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which concept allows machines to learn from data?\nA. Coding\nB. AI\nC. Machine Learning\nD. Big Data\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which concept allows machines to learn from data?\nA. Coding\nB. AI\nC. Machine Learning\nD. Big Data\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which technique helps in reducing overfitting in models?\nA. Dropout\nB. Pooling\nC. Gradient Descent\nD. Batch Normalization\nAnswer: A"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is 'gradient descent' used for in ML?\nA. Data cleaning\nB. Feature scaling\nC. Optimization\nD. Visualization\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is 'gradient descent' used for in ML?\nA. Data cleaning\nB. Feature scaling\nC. Optimization\nD. Visualization\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is 'gradient descent' used for in ML?\nA. Data cleaning\nB. Feature scaling\nC. Optimization\nD. Visualization\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which algorithm is used for classification problems in AI?\nA. Linear Regression\nB. K-Means\nC. Naive Bayes\nD. Apriori\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What does NLP stand for in AI?\nA. Neural Language Processing\nB. Natural Language Processing\nC. Network Learning Paradigm\nD. None of the above\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which is a popular library for AI in Python?\nA. NumPy\nB. TensorFlow\nC. Matplotlib\nD. BeautifulSoup\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which technique is used in AI to make decisions based on past experiences?\nA. Supervised Learning\nB. Unsupervised Learning\nC. Reinforcement Learning\nD. Classification\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is the output of a classification algorithm?\nA. A numeric value\nB. A probability score\nC. A class label\nD. A data cluster\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which of these is a type of neural network?\nA. RNN\nB. SVM\nC. Decision Tree\nD. KNN\nAnswer: A"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which is not a supervised learning algorithm?\nA. Decision Tree\nB. KNN\nC. K-Means\nD. Logistic Regression\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which model is used for sequence prediction?\nA. RNN\nB. CNN\nC. Naive Bayes\nD. SVM\nAnswer: A"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is overfitting in AI?\nA. Model performs well on test data\nB. Model performs poorly on training data\nC. Model memorizes training data\nD. Model generalizes well\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which HTML tag is used to insert a line break?\nA. <br>\nB. <p>\nC. <hr>\nD. <line>\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property is used to change text color?\nA. font-style\nB. text-color\nC. color\nD. background-color\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. Hyper Trainer Marking Language\nB. Hyper Text Markup Language\nC. Hyper Text Marketing Language\nD. High Text Markup Language\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which property is used to change font size in CSS?\nA. font-size\nB. text-size\nC. size\nD. font-style\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to create a hyperlink in HTML?\nA. <link>\nB. <a>\nC. <href>\nD. <hyper>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What is the default position in CSS?\nA. relative\nB. absolute\nC. static\nD. fixed\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which of the following is a JavaScript framework?\nA. Flask\nB. Django\nC. React\nD. Laravel\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which HTML tag is used to define a table row?\nA. <tr>\nB. <td>\nC. <th>\nD. <table>\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does CSS stand for?\nA. Creative Style Sheets\nB. Computer Style Sheets\nC. Cascading Style Sheets\nD. Colorful Style Sheets\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which event occurs when the user clicks on an HTML element?\nA. onchange\nB. onmouseclick\nC. onmouseover\nD. onclick\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to update a resource?\nA. GET\nB. POST\nC. PUT\nD. DELETE\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which database is NoSQL?\nA. MySQL\nB. PostgreSQL\nC. MongoDB\nD. Oracle\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the default port for HTTP?\nA. 80\nB. 443\nC. 21\nD. 3306\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which language is commonly used for backend development?\nA. HTML\nB. CSS\nC. JavaScript\nD. Python\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of these is a backend framework in Python?\nA. React\nB. Vue\nC. Django\nD. Bootstrap\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which protocol is used to send email?\nA. HTTP\nB. SMTP\nC. FTP\nD. SSH\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is REST?\nA. A server\nB. A database\nC. An API architecture\nD. A language\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which command is used to install packages in Node.js?\nA. install-node\nB. node-install\nC. npm install\nD. pkg install\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code means 'Not Found'?\nA. 500\nB. 403\nC. 404\nD. 200\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which language is not used in backend development?\nA. PHP\nB. Ruby\nC. C++\nD. HTML\nAnswer: D"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is a perceptron in neural networks?\nA. Basic neuron model\nB. Loss function\nC. Data structure\nD. Optimizer\nAnswer: A"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which AI concept involves learning from unlabeled data?\nA. Supervised learning\nB. Unsupervised learning\nC. Reinforcement learning\nD. Meta learning\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is the function of an activation function in neural networks?\nA. Calculate loss\nB. Convert output to labels\nC. Introduce non-linearity\nD. Reduce overfitting\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which AI model is best for image classification?\nA. RNN\nB. CNN\nC. SVM\nD. Naive Bayes\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What does 'bias' in a neural network represent?\nA. Weight\nB. Threshold\nC. Learning rate\nD. Offset added to activation\nAnswer: D"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is the output of a regression model?\nA. Category\nB. Cluster\nC. Numeric value\nD. Class label\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is the role of a loss function?\nA. Optimizes the model\nB. Calculates prediction accuracy\nC. Measures error\nD. None\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which is not an activation function?\nA. ReLU\nB. Sigmoid\nC. Tanh\nD. RMSProp\nAnswer: D"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which algorithm is used for clustering?\nA. Linear Regression\nB. Logistic Regression\nC. K-Means\nD. Random Forest\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which one is a deep learning framework?\nA. NumPy\nB. Matplotlib\nC. Keras\nD. Pandas\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is the term for AI that can think and make decisions like a human?\nA. Narrow AI\nB. General AI\nC. Supervised AI\nD. Cognitive AI\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which component stores learned parameters in ML models?\nA. Model\nB. Loss function\nC. Weights\nD. Features\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is dropout used for in deep learning?\nA. Speed up training\nB. Prevent overfitting\nC. Reduce data size\nD. Increase accuracy\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which AI model is good for text generation?\nA. CNN\nB. RNN\nC. KNN\nD. Naive Bayes\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which algorithm is most suitable for spam detection?\nA. Regression\nB. Clustering\nC. Classification\nD. Reinforcement\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which method reduces the number of input variables?\nA. Regularization\nB. Augmentation\nC. Dimensionality Reduction\nD. Activation\nAnswer: C"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What is the first step in training a machine learning model?\nA. Deploy the model\nB. Prepare the dataset\nC. Train the model\nD. Tune hyperparameters\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "What does 'epoch' mean in training?\nA. One pass over full data\nB. One batch\nC. One layer\nD. One output\nAnswer: A"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which metric is used for classification?\nA. MSE\nB. Accuracy\nC. R-squared\nD. Loss\nAnswer: B"
+  },
+  {
+    "domain": "AI",
+    "input_text": "Generate a multiple-choice question for domain: AI.",
+    "target_text": "Which type of AI is used in chess programs?\nA. General AI\nB. Strong AI\nC. Weak AI\nD. Narrow AI\nAnswer: D"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to define a paragraph in HTML?\nA. <div>\nB. <p>\nC. <span>\nD. <para>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which of the following is not a valid CSS unit?\nA. px\nB. em\nC. pt\nD. hr\nAnswer: D"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property is used for spacing inside an element?\nA. margin\nB. padding\nC. border\nD. spacing\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript keyword declares a constant?\nA. let\nB. var\nC. const\nD. define\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which attribute specifies a unique id in HTML?\nA. class\nB. id\nC. name\nD. ref\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "How do you write a comment in CSS?\nA. // comment\nB. /* comment */\nC. <!-- comment -->\nD. # comment\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to add an element at the end of an array?\nA. push()\nB. pop()\nC. shift()\nD. join()\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to embed JavaScript code in HTML?\nA. <js>\nB. <script>\nC. <style>\nD. <embed>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does DOM stand for?\nA. Document Object Model\nB. Design Object Management\nC. Document Oriented Model\nD. Data Object Map\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which is used to apply a style to one specific element?\nA. class\nB. id\nC. tag\nD. type\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type is used for password fields?\nA. text\nB. password\nC. hidden\nD. secure\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which property makes text bold in CSS?\nA. font-weight\nB. font-size\nC. font-style\nD. text-bold\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What is the default display value of <div>?\nA. inline\nB. block\nC. inline-block\nD. none\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used for inserting images in HTML?\nA. <img>\nB. <pic>\nC. <src>\nD. <image>\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does event.preventDefault() do in JavaScript?\nA. Stops the page from refreshing\nB. Prevents the event from triggering\nC. Cancels default browser behavior\nD. None\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which HTML element defines the title of a document?\nA. <head>\nB. <meta>\nC. <title>\nD. <body>\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the background color?\nA. color\nB. bg-color\nC. background\nD. background-color\nAnswer: D"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type allows users to select a file?\nA. text\nB. checkbox\nC. file\nD. upload\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript operator is used to assign a value?\nA. =\nB. ==\nC. ===\nD. :\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript operator is used to assign a value?\nA. =\nB. ==\nC. ===\nD. :\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript operator is used to assign a value?\nA. =\nB. ==\nC. ===\nD. :\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript operator is used to assign a value?\nA. =\nB. ==\nC. ===\nD. :\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to make text italic in HTML?\nA. <b>\nB. <i>\nC. <em>\nD. <italic>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to make text italic in HTML?\nA. <b>\nB. <i>\nC. <em>\nD. <italic>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type allows users to select a file?\nA. text\nB. checkbox\nC. file\nD. upload\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to make text italic in HTML?\nA. <b>\nB. <i>\nC. <em>\nD. <italic>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which HTML tag defines a cell in a table?\nA. <cell>\nB. <td>\nC. <tr>\nD. <table>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to make text italic in HTML?\nA. <b>\nB. <i>\nC. <em>\nD. <italic>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to make text italic in HTML?\nA. <b>\nB. <i>\nC. <em>\nD. <italic>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which HTML tag defines a cell in a table?\nA. <cell>\nB. <td>\nC. <tr>\nD. <table>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to make text italic in HTML?\nA. <b>\nB. <i>\nC. <em>\nD. <italic>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type allows users to select a file?\nA. text\nB. checkbox\nC. file\nD. upload\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which HTML tag defines a cell in a table?\nA. <cell>\nB. <td>\nC. <tr>\nD. <table>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type allows users to select a file?\nA. text\nB. checkbox\nC. file\nD. upload\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type allows users to select a file?\nA. text\nB. checkbox\nC. file\nD. upload\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which HTML tag defines a cell in a table?\nA. <cell>\nB. <td>\nC. <tr>\nD. <table>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JS function is used to log output to the browser console?\nA. print()\nB. echo()\nC. console.log()\nD. display()\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to create a dropdown in HTML?\nA. <input>\nB. <select>\nC. <dropdown>\nD. <menu>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which pseudo-class selects the first child of an element?\nA. :first\nB. :first-child\nC. ::first\nD. :nth-child(1)\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is used to communicate between client and server?\nA. URL\nB. API\nC. FTP\nD. DNS\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which is a type of web server?\nA. Apache\nB. React\nC. MongoDB\nD. Laravel\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does CRUD stand for?\nA. Create Read Update Delete\nB. Copy Read Use Drop\nC. Create Retrieve Update Drop\nD. Create Reduce Use Delete\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which command starts a Django project?\nA. django start\nB. django-admin startproject\nC. start-django\nD. python manage start\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which format is used by REST APIs to exchange data?\nA. XML\nB. HTML\nC. JSON\nD. SQL\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP status code indicates success?\nA. 400\nB. 200\nC. 404\nD. 403\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which language is not commonly used for backend?\nA. Python\nB. Java\nC. Ruby\nD. HTML\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is an ORM tool in Python?\nA. Mongoose\nB. Sequelize\nC. SQLAlchemy\nD. Jinja2\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which SQL command is used to remove a table?\nA. DELETE\nB. DROP\nC. TRUNCATE\nD. REMOVE\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does MVC stand for?\nA. Model View Controller\nB. Model Virtual Container\nC. Module Version Control\nD. Main View Controller\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which protocol is used for secure communication?\nA. HTTP\nB. FTP\nC. HTTPS\nD. SMTP\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which middleware is used in Node.js for parsing JSON?\nA. body-parser\nB. morgan\nC. express-json\nD. jsonwebtoken\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which method is used to create a new record in SQL?\nA. INSERT\nB. CREATE\nC. UPDATE\nD. ADD\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which environment variable is used to store secrets?\nA. ENV_KEY\nB. PRIVATE\nC. SECRET_KEY\nD. CONFIG\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following handles routing in Express.js?\nA. Router\nB. App\nC. Route\nD. Path\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which database is a relational database?\nA. MongoDB\nB. Cassandra\nC. MySQL\nD. Neo4j\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend stack uses JavaScript for client and server?\nA. MEAN\nB. LAMP\nC. MERN\nD. JAM\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which keyword is used to define a function in Python?\nA. func\nB. def\nC. function\nD. lambda\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of these is a template engine for Node.js?\nA. Blade\nB. Jinja\nC. EJS\nD. Liquid\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which CLI command initializes a Node project?\nA. npm init\nB. node init\nC. npm start\nD. create-node\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the main function of a backend API?\nA. Style the webpage\nB. Store frontend code\nC. Serve data to frontend\nD. Render UI\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the main function of a backend API?\nA. Style the webpage\nB. Store frontend code\nC. Serve data to frontend\nD. Render UI\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is not a NoSQL database?\nA. MongoDB\nB. Redis\nC. MySQL\nD. Cassandra\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which command creates a virtual environment in Python?\nA. pip install venv\nB. python -m venv env\nC. venv create\nD. python make env\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the main function of a backend API?\nA. Style the webpage\nB. Store frontend code\nC. Serve data to frontend\nD. Render UI\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the use of caching in backend systems?\nA. To store backups\nB. To increase performance\nC. To encrypt data\nD. To route traffic\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is middleware in web development?\nA. Frontend tool\nB. Database\nC. Request handler\nD. Protocol\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which command creates a virtual environment in Python?\nA. pip install venv\nB. python -m venv env\nC. venv create\nD. python make env\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is not a NoSQL database?\nA. MongoDB\nB. Redis\nC. MySQL\nD. Cassandra\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is not a NoSQL database?\nA. MongoDB\nB. Redis\nC. MySQL\nD. Cassandra\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is not a NoSQL database?\nA. MongoDB\nB. Redis\nC. MySQL\nD. Cassandra\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is middleware in web development?\nA. Frontend tool\nB. Database\nC. Request handler\nD. Protocol\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which command creates a virtual environment in Python?\nA. pip install venv\nB. python -m venv env\nC. venv create\nD. python make env\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which command creates a virtual environment in Python?\nA. pip install venv\nB. python -m venv env\nC. venv create\nD. python make env\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the use of caching in backend systems?\nA. To store backups\nB. To increase performance\nC. To encrypt data\nD. To route traffic\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is not a NoSQL database?\nA. MongoDB\nB. Redis\nC. MySQL\nD. Cassandra\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is middleware in web development?\nA. Frontend tool\nB. Database\nC. Request handler\nD. Protocol\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the use of caching in backend systems?\nA. To store backups\nB. To increase performance\nC. To encrypt data\nD. To route traffic\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is not a NoSQL database?\nA. MongoDB\nB. Redis\nC. MySQL\nD. Cassandra\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the use of caching in backend systems?\nA. To store backups\nB. To increase performance\nC. To encrypt data\nD. To route traffic\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is not a NoSQL database?\nA. MongoDB\nB. Redis\nC. MySQL\nD. Cassandra\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the main function of a backend API?\nA. Style the webpage\nB. Store frontend code\nC. Serve data to frontend\nD. Render UI\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the main function of a backend API?\nA. Style the webpage\nB. Store frontend code\nC. Serve data to frontend\nD. Render UI\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the use of caching in backend systems?\nA. To store backups\nB. To increase performance\nC. To encrypt data\nD. To route traffic\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the main function of a backend API?\nA. Style the webpage\nB. Store frontend code\nC. Serve data to frontend\nD. Render UI\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the use of caching in backend systems?\nA. To store backups\nB. To increase performance\nC. To encrypt data\nD. To route traffic\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which command creates a virtual environment in Python?\nA. pip install venv\nB. python -m venv env\nC. venv create\nD. python make env\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the main function of a backend API?\nA. Style the webpage\nB. Store frontend code\nC. Serve data to frontend\nD. Render UI\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What is the use of caching in backend systems?\nA. To store backups\nB. To increase performance\nC. To encrypt data\nD. To route traffic\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is not a NoSQL database?\nA. MongoDB\nB. Redis\nC. MySQL\nD. Cassandra\nAnswer: C"
+  }
+
+]
