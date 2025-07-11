@@ -1,0 +1,50 @@
+1. What is the MERN stack and what are its components?
+2. How does React differ from traditional templating engines like EJS?
+3. What are React hooks and name a few commonly used ones?
+4. How do you manage state in a React application?
+5. What is the purpose of Redux in MERN stack development?
+6. What is JSX and how does it work in React?
+7. Explain the virtual DOM in React and how it improves performance.
+8. What is the role of useEffect in React?
+9. How do you handle forms and validation in React?
+10. What are functional components and how are they different from class components?
+11. How do you implement routing in a React application?
+12. How does Express.js simplify Node.js backend development?
+13. What are middleware functions in Express and how are they used?
+14. How do you set up routing in Express.js?
+15. What is the difference between app.use and app.get in Express?
+16. How do you handle errors globally in Express.js?
+17. How do you secure routes in a MERN application?
+18. What is the role of the dotenv package in a Node.js application?
+19. How do you connect Node.js with MongoDB using Mongoose?
+20. What are Mongoose schemas and models?
+21. How do you perform CRUD operations using Mongoose?
+22. What is population in Mongoose and when is it used?
+23. What is the difference between save() and insertMany() in Mongoose?
+24. How do you structure a MERN stack project?
+25. How does client-server communication work in MERN applications?
+26. What is CORS and how do you handle it in a MERN stack app?
+27. How do you implement authentication using JWT in a MERN app?
+28. How do you store and verify passwords securely in MongoDB?
+29. What are some strategies to improve performance in MERN stack apps?
+30. How do you manage asynchronous calls in MERN applications?
+31. What are some best practices for error handling in full stack apps?
+32. How do you deploy a MERN stack application?
+33. What platforms can you use to deploy MERN apps (e.g., Heroku, Vercel)?
+34. How do you build RESTful APIs in the MERN stack?
+35. How do you implement role-based access control (RBAC)?
+36. What is the difference between local storage and session storage?
+37. How do you handle file uploads in a MERN application?
+38. How can you use React Context for global state management?
+39. What is the purpose of useRef in React?
+40. How do you debug and monitor a MERN stack application?
+41. What are the pros and cons of the MERN stack?
+42. How do you handle pagination in MongoDB and React?
+43. How do you ensure mobile responsiveness in a MERN application?
+44. What are some security best practices in MERN development?
+45. How do you integrate third-party APIs into a MERN application?
+46. What is SSR and can it be done with React in the MERN stack?
+47. How do you manage environment variables in development and production?
+48. How can you make your MERN app SEO-friendly?
+49. What tools do you use for testing MERN applications?
+50. What’s the difference between axios and fetch for API calls?

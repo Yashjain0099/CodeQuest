@@ -1,0 +1,50 @@
+1. What are the differences between id and class in HTML?
+2. Explain the Box Model in CSS.
+3. What is the difference between == and === in JavaScript?
+4. How do you optimize website performance on the frontend?
+5. What is the purpose of z-index in CSS?
+6. What are Promises and how do they work in JavaScript?
+7. How does event delegation work in JavaScript?
+8. Explain the concept of a Single Page Application (SPA).
+9. What are media queries and how are they used in responsive design?
+10. How do you prevent default behavior in JavaScript events?
+11. What is a virtual DOM and how does it improve performance?
+12. How do you handle memory leaks in frontend applications?
+13. How would you implement lazy loading for images or components?
+14. Explain the difference between throttling and debouncing.
+15. What are Web Components and how do they compare to frameworks like React or Angular?
+16. What is the difference between REST and SOAP APIs?
+17. What are middleware functions in Express.js?
+18. Explain the role of a backend in a web application.
+19. How do you connect a backend application to a database?
+20. What is the use of environment variables?
+21. Explain the concept of JWT and how it is used for authentication.
+22. How does asynchronous programming work in Node.js?
+23. How would you handle user input validation and sanitization?
+24. What is CORS and how do you handle it?
+25. What is the difference between PUT and PATCH in REST?
+26. What are microservices, and how do they compare with monolithic architectures?
+27. How do you handle file uploads in a Node.js server?
+28. How would you implement rate limiting in an API?
+29. Explain how clustering works in Node.js.
+30. How do you secure a RESTful API?
+31. What is the difference between SQL and NoSQL databases?
+32. What are joins in SQL? Explain with an example.
+33. How do you define relationships between tables in a relational database?
+34. What is indexing and how does it improve query performance?
+35. What is a primary key and a foreign key?
+36. When would you choose MongoDB over MySQL?
+37. Explain data normalization and its benefits.
+38. How do you perform transactions in SQL databases?
+39. How do you handle database migrations?
+40. How do you prevent SQL injection attacks?
+41. What is the role of Docker in full stack development?
+42. How do you deploy a full stack application?
+43. What is CI/CD and why is it important?
+44. What is a reverse proxy and how does it work with NGINX?
+45. How do you monitor and log errors in production?
+46. What is the difference between synchronous and asynchronous code?
+47. How would you structure a full stack project directory?
+48. How do you manage state in a React or Vue app?
+49. What are some common security concerns in web applications?
+50. Describe your experience with a recent full stack project from design to deployment.

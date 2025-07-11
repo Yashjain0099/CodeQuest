@@ -1,0 +1,502 @@
+[
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which algorithm is used for supervised learning?\\nA. K-Means\\nB. Linear Regression\\nC. Apriori\\nD. PCA"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is a type of unsupervised learning?\\nA. Decision Tree\\nB. K-Means\\nC. Random Forest\\nD. Logistic Regression"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which evaluation metric is best for classification problems?\\nA. Mean Squared Error\\nB. Precision\\nC. Variance\\nD. R-squared"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is a dimensionality reduction technique?\\nA. Random Forest\\nB. Naive Bayes\\nC. PCA\\nD. SVM"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which ML algorithm is most suitable for spam detection?\\nA. K-Means\\nB. Naive Bayes\\nC. KNN\\nD. SVM"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "What does 'overfitting' mean in ML?\\nA. Model performs well on both training and test data\\nB. Model performs poorly on training data\\nC. Model performs well on training but poorly on test data\\nD. Model is under-trained"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is NOT a supervised learning task?\\nA. Regression\\nB. Classification\\nC. Clustering\\nD. Spam filtering"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which method is used to prevent overfitting?\\nA. Increasing layers\\nB. Dropout\\nC. Using small datasets\\nD. Removing validation set"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "What does the 'bias' in ML refer to?\\nA. Model accuracy\\nB. Error due to assumptions in learning algorithm\\nC. Random error\\nD. Feature importance"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which activation function is commonly used in neural networks?\\nA. Softmax\\nB. Sigmoid\\nC. ReLU\\nD. All of the above"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which algorithm is used for supervised learning?\\nA. K-Means\\nB. Linear Regression\\nC. Apriori\\nD. PCA"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is a type of unsupervised learning?\\nA. Decision Tree\\nB. K-Means\\nC. Random Forest\\nD. Logistic Regression"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which evaluation metric is best for classification problems?\\nA. Mean Squared Error\\nB. Precision\\nC. Variance\\nD. R-squared"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is a dimensionality reduction technique?\\nA. Random Forest\\nB. Naive Bayes\\nC. PCA\\nD. SVM"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which ML algorithm is most suitable for spam detection?\\nA. K-Means\\nB. Naive Bayes\\nC. KNN\\nD. SVM"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "What does 'overfitting' mean in ML?\\nA. Model performs well on both training and test data\\nB. Model performs poorly on training data\\nC. Model performs well on training but poorly on test data\\nD. Model is under-trained"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is NOT a supervised learning task?\\nA. Regression\\nB. Classification\\nC. Clustering\\nD. Spam filtering"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which method is used to prevent overfitting?\\nA. Increasing layers\\nB. Dropout\\nC. Using small datasets\\nD. Removing validation set"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "What does the 'bias' in ML refer to?\\nA. Model accuracy\\nB. Error due to assumptions in learning algorithm\\nC. Random error\\nD. Feature importance"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which activation function is commonly used in neural networks?\\nA. Softmax\\nB. Sigmoid\\nC. ReLU\\nD. All of the above"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which algorithm is used for supervised learning?\\nA. K-Means\\nB. Linear Regression\\nC. Apriori\\nD. PCA"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is a type of unsupervised learning?\\nA. Decision Tree\\nB. K-Means\\nC. Random Forest\\nD. Logistic Regression"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which evaluation metric is best for classification problems?\\nA. Mean Squared Error\\nB. Precision\\nC. Variance\\nD. R-squared"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is a dimensionality reduction technique?\\nA. Random Forest\\nB. Naive Bayes\\nC. PCA\\nD. SVM"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which ML algorithm is most suitable for spam detection?\\nA. K-Means\\nB. Naive Bayes\\nC. KNN\\nD. SVM"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "What does 'overfitting' mean in ML?\\nA. Model performs well on both training and test data\\nB. Model performs poorly on training data\\nC. Model performs well on training but poorly on test data\\nD. Model is under-trained"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is NOT a supervised learning task?\\nA. Regression\\nB. Classification\\nC. Clustering\\nD. Spam filtering"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which method is used to prevent overfitting?\\nA. Increasing layers\\nB. Dropout\\nC. Using small datasets\\nD. Removing validation set"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "What does the 'bias' in ML refer to?\\nA. Model accuracy\\nB. Error due to assumptions in learning algorithm\\nC. Random error\\nD. Feature importance"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which activation function is commonly used in neural networks?\\nA. Softmax\\nB. Sigmoid\\nC. ReLU\\nD. All of the above"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which algorithm is used for supervised learning?\\nA. K-Means\\nB. Linear Regression\\nC. Apriori\\nD. PCA"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is a type of unsupervised learning?\\nA. Decision Tree\\nB. K-Means\\nC. Random Forest\\nD. Logistic Regression"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which evaluation metric is best for classification problems?\\nA. Mean Squared Error\\nB. Precision\\nC. Variance\\nD. R-squared"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is a dimensionality reduction technique?\\nA. Random Forest\\nB. Naive Bayes\\nC. PCA\\nD. SVM"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which ML algorithm is most suitable for spam detection?\\nA. K-Means\\nB. Naive Bayes\\nC. KNN\\nD. SVM"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "What does 'overfitting' mean in ML?\\nA. Model performs well on both training and test data\\nB. Model performs poorly on training data\\nC. Model performs well on training but poorly on test data\\nD. Model is under-trained"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is NOT a supervised learning task?\\nA. Regression\\nB. Classification\\nC. Clustering\\nD. Spam filtering"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which method is used to prevent overfitting?\\nA. Increasing layers\\nB. Dropout\\nC. Using small datasets\\nD. Removing validation set"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "What does the 'bias' in ML refer to?\\nA. Model accuracy\\nB. Error due to assumptions in learning algorithm\\nC. Random error\\nD. Feature importance"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which activation function is commonly used in neural networks?\\nA. Softmax\\nB. Sigmoid\\nC. ReLU\\nD. All of the above"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which algorithm is used for supervised learning?\\nA. K-Means\\nB. Linear Regression\\nC. Apriori\\nD. PCA"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is a type of unsupervised learning?\\nA. Decision Tree\\nB. K-Means\\nC. Random Forest\\nD. Logistic Regression"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which evaluation metric is best for classification problems?\\nA. Mean Squared Error\\nB. Precision\\nC. Variance\\nD. R-squared"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is a dimensionality reduction technique?\\nA. Random Forest\\nB. Naive Bayes\\nC. PCA\\nD. SVM"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which ML algorithm is most suitable for spam detection?\\nA. K-Means\\nB. Naive Bayes\\nC. KNN\\nD. SVM"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "What does 'overfitting' mean in ML?\\nA. Model performs well on both training and test data\\nB. Model performs poorly on training data\\nC. Model performs well on training but poorly on test data\\nD. Model is under-trained"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which of the following is NOT a supervised learning task?\\nA. Regression\\nB. Classification\\nC. Clustering\\nD. Spam filtering"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which method is used to prevent overfitting?\\nA. Increasing layers\\nB. Dropout\\nC. Using small datasets\\nD. Removing validation set"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "What does the 'bias' in ML refer to?\\nA. Model accuracy\\nB. Error due to assumptions in learning algorithm\\nC. Random error\\nD. Feature importance"
+  },
+  {
+    "domain": "ml",
+    "input_text": "Generate a multiple-choice question for domain: ml.",
+    "target_text": "Which activation function is commonly used in neural networks?\\nA. Softmax\\nB. Sigmoid\\nC. ReLU\\nD. All of the above"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which of the following is a popular deep learning framework?\\nA. NumPy\\nB. Pandas\\nC. TensorFlow\\nD. Scikit-learn"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What does a neuron in a neural network do?\\nA. Stores data\\nB. Computes weighted sum and applies activation\\nC. Sorts values\\nD. Stores gradient"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is the function of an activation function in neural networks?\\nA. Adds noise\\nB. Improves accuracy\\nC. Introduces non-linearity\\nD. Reduces size"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which of the following is a commonly used activation function?\\nA. ReLU\\nB. Linear\\nC. Polynomial\\nD. Square Root"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is backpropagation used for?\\nA. Predicting outputs\\nB. Initializing weights\\nC. Optimizing the loss function\\nD. Data collection"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which type of network is used for image data?\\nA. RNN\\nB. CNN\\nC. GAN\\nD. SVM"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What does CNN stand for?\\nA. Central Neural Network\\nB. Convolutional Neural Network\\nC. Cyclic Neural Network\\nD. Converging Neural Net"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which layer type is typically used in CNNs for downsampling?\\nA. Dense Layer\\nB. Conv Layer\\nC. Pooling Layer\\nD. Dropout Layer"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is overfitting in deep learning?\\nA. Model performs well on all data\\nB. Model fits training data too well but fails to generalize\\nC. Model trains very slowly\\nD. Model never converges"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which optimization algorithm is widely used in deep learning?\\nA. KNN\\nB. Adam\\nC. Ridge\\nD. PCA"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which of the following is a popular deep learning framework?\\nA. NumPy\\nB. Pandas\\nC. TensorFlow\\nD. Scikit-learn"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What does a neuron in a neural network do?\\nA. Stores data\\nB. Computes weighted sum and applies activation\\nC. Sorts values\\nD. Stores gradient"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is the function of an activation function in neural networks?\\nA. Adds noise\\nB. Improves accuracy\\nC. Introduces non-linearity\\nD. Reduces size"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which of the following is a commonly used activation function?\\nA. ReLU\\nB. Linear\\nC. Polynomial\\nD. Square Root"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is backpropagation used for?\\nA. Predicting outputs\\nB. Initializing weights\\nC. Optimizing the loss function\\nD. Data collection"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which type of network is used for image data?\\nA. RNN\\nB. CNN\\nC. GAN\\nD. SVM"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What does CNN stand for?\\nA. Central Neural Network\\nB. Convolutional Neural Network\\nC. Cyclic Neural Network\\nD. Converging Neural Net"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which layer type is typically used in CNNs for downsampling?\\nA. Dense Layer\\nB. Conv Layer\\nC. Pooling Layer\\nD. Dropout Layer"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is overfitting in deep learning?\\nA. Model performs well on all data\\nB. Model fits training data too well but fails to generalize\\nC. Model trains very slowly\\nD. Model never converges"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which optimization algorithm is widely used in deep learning?\\nA. KNN\\nB. Adam\\nC. Ridge\\nD. PCA"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which of the following is a popular deep learning framework?\\nA. NumPy\\nB. Pandas\\nC. TensorFlow\\nD. Scikit-learn"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What does a neuron in a neural network do?\\nA. Stores data\\nB. Computes weighted sum and applies activation\\nC. Sorts values\\nD. Stores gradient"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is the function of an activation function in neural networks?\\nA. Adds noise\\nB. Improves accuracy\\nC. Introduces non-linearity\\nD. Reduces size"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which of the following is a commonly used activation function?\\nA. ReLU\\nB. Linear\\nC. Polynomial\\nD. Square Root"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is backpropagation used for?\\nA. Predicting outputs\\nB. Initializing weights\\nC. Optimizing the loss function\\nD. Data collection"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which type of network is used for image data?\\nA. RNN\\nB. CNN\\nC. GAN\\nD. SVM"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What does CNN stand for?\\nA. Central Neural Network\\nB. Convolutional Neural Network\\nC. Cyclic Neural Network\\nD. Converging Neural Net"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which layer type is typically used in CNNs for downsampling?\\nA. Dense Layer\\nB. Conv Layer\\nC. Pooling Layer\\nD. Dropout Layer"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is overfitting in deep learning?\\nA. Model performs well on all data\\nB. Model fits training data too well but fails to generalize\\nC. Model trains very slowly\\nD. Model never converges"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which optimization algorithm is widely used in deep learning?\\nA. KNN\\nB. Adam\\nC. Ridge\\nD. PCA"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which of the following is a popular deep learning framework?\\nA. NumPy\\nB. Pandas\\nC. TensorFlow\\nD. Scikit-learn"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What does a neuron in a neural network do?\\nA. Stores data\\nB. Computes weighted sum and applies activation\\nC. Sorts values\\nD. Stores gradient"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is the function of an activation function in neural networks?\\nA. Adds noise\\nB. Improves accuracy\\nC. Introduces non-linearity\\nD. Reduces size"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which of the following is a commonly used activation function?\\nA. ReLU\\nB. Linear\\nC. Polynomial\\nD. Square Root"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is backpropagation used for?\\nA. Predicting outputs\\nB. Initializing weights\\nC. Optimizing the loss function\\nD. Data collection"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which type of network is used for image data?\\nA. RNN\\nB. CNN\\nC. GAN\\nD. SVM"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What does CNN stand for?\\nA. Central Neural Network\\nB. Convolutional Neural Network\\nC. Cyclic Neural Network\\nD. Converging Neural Net"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which layer type is typically used in CNNs for downsampling?\\nA. Dense Layer\\nB. Conv Layer\\nC. Pooling Layer\\nD. Dropout Layer"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is overfitting in deep learning?\\nA. Model performs well on all data\\nB. Model fits training data too well but fails to generalize\\nC. Model trains very slowly\\nD. Model never converges"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which optimization algorithm is widely used in deep learning?\\nA. KNN\\nB. Adam\\nC. Ridge\\nD. PCA"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which of the following is a popular deep learning framework?\\nA. NumPy\\nB. Pandas\\nC. TensorFlow\\nD. Scikit-learn"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What does a neuron in a neural network do?\\nA. Stores data\\nB. Computes weighted sum and applies activation\\nC. Sorts values\\nD. Stores gradient"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is the function of an activation function in neural networks?\\nA. Adds noise\\nB. Improves accuracy\\nC. Introduces non-linearity\\nD. Reduces size"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which of the following is a commonly used activation function?\\nA. ReLU\\nB. Linear\\nC. Polynomial\\nD. Square Root"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is backpropagation used for?\\nA. Predicting outputs\\nB. Initializing weights\\nC. Optimizing the loss function\\nD. Data collection"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which type of network is used for image data?\\nA. RNN\\nB. CNN\\nC. GAN\\nD. SVM"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What does CNN stand for?\\nA. Central Neural Network\\nB. Convolutional Neural Network\\nC. Cyclic Neural Network\\nD. Converging Neural Net"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which layer type is typically used in CNNs for downsampling?\\nA. Dense Layer\\nB. Conv Layer\\nC. Pooling Layer\\nD. Dropout Layer"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "What is overfitting in deep learning?\\nA. Model performs well on all data\\nB. Model fits training data too well but fails to generalize\\nC. Model trains very slowly\\nD. Model never converges"
+  },
+  {
+    "domain": "deep learning",
+    "input_text": "Generate a multiple-choice question for domain: deep learning.",
+    "target_text": "Which optimization algorithm is widely used in deep learning?\\nA. KNN\\nB. Adam\\nC. Ridge\\nD. PCA"
+  }
+]
