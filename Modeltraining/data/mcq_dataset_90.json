@@ -999,10 +999,511 @@
     "input_text": "Generate a multiple-choice question for domain: frontend.",
     "target_text": "Which JavaScript operator is used to assign a value?\nA. =\nB. ==\nC. ===\nD. :\nAnswer: A"
   },
+  
   {
     "domain": "frontend",
     "input_text": "Generate a multiple-choice question for domain: frontend.",
     "target_text": "Which CSS property sets the spacing between lines of text?\nA. letter-spacing\nB. text-indent\nC. line-height\nD. word-spacing\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to define an unordered list in HTML?\nA. <ol>\nB. <ul>\nC. <li>\nD. <list>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to define an unordered list in HTML?\nA. <ol>\nB. <ul>\nC. <li>\nD. <list>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to define an unordered list in HTML?\nA. <ol>\nB. <ul>\nC. <li>\nD. <list>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to define an unordered list in HTML?\nA. <ol>\nB. <ul>\nC. <li>\nD. <list>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to define an unordered list in HTML?\nA. <ol>\nB. <ul>\nC. <li>\nD. <list>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to define an unordered list in HTML?\nA. <ol>\nB. <ul>\nC. <li>\nD. <list>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to define an unordered list in HTML?\nA. <ol>\nB. <ul>\nC. <li>\nD. <list>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to define an unordered list in HTML?\nA. <ol>\nB. <ul>\nC. <li>\nD. <list>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which tag is used to define an unordered list in HTML?\nA. <ol>\nB. <ul>\nC. <li>\nD. <list>\nAnswer: B"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which input type creates a slider in HTML?\nA. range\nB. slider\nC. input-slider\nD. scrollbar\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "What does HTML stand for?\nA. HyperText Markup Language\nB. Hyper Trainer Marking Language\nC. Hyperlinks Text Management Language\nD. Home Tool Markup Language\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which JavaScript method is used to select an element by ID?\nA. getElementById\nB. querySelectorAll\nC. getElementsByClassName\nD. getElementsByTagName\nAnswer: A"
+  },
+  {
+    "domain": "frontend",
+    "input_text": "Generate a multiple-choice question for domain: frontend.",
+    "target_text": "Which CSS property controls the text size?\nA. font-style\nB. text-size\nC. font-size\nD. size\nAnswer: C"
   },
   {
     "domain": "frontend",
@@ -1203,6 +1704,506 @@
     "domain": "backend",
     "input_text": "Generate a multiple-choice question for domain: backend.",
     "target_text": "Which protocol is used for secure communication?\nA. HTTP\nB. FTP\nC. HTTPS\nD. SMTP\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which status code represents 'Forbidden'?\nA. 200\nB. 404\nC. 403\nD. 500\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which of the following is a relational database?\nA. MongoDB\nB. MySQL\nC. Redis\nD. Neo4j\nAnswer: B"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "What does REST stand for?\nA. Representational State Transfer\nB. Random External Server Transfer\nC. Recursive Standard Transfer\nD. Remote Environment Service Tool\nAnswer: A"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which HTTP method is used to delete data?\nA. GET\nB. POST\nC. DELETE\nD. PUT\nAnswer: C"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
+  },
+  {
+    "domain": "backend",
+    "input_text": "Generate a multiple-choice question for domain: backend.",
+    "target_text": "Which backend language runs on Node.js?\nA. Python\nB. Ruby\nC. PHP\nD. JavaScript\nAnswer: D"
   },
   {
     "domain": "backend",
